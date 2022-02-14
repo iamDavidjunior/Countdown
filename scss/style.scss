@@ -105,9 +105,9 @@ body {
   text-align: center;
   margin-right: 1em;
   color: $whiteColor;
-  
+  background-color: $blackColor;
+  padding: .5em;
 }
-
 
 .main-section {
   max-width: 1400px;
@@ -214,7 +214,7 @@ footer {
 }
 
 .cpr {
-    font-weight: 300;
+  font-weight: 300;
   color: $whiteColor;
   text-align: center;
   margin-top: 1em;
