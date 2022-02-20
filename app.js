@@ -30,7 +30,6 @@ const countdown = () => {
 setInterval(countdown, 1000);
 
 
-
 //Responsive navigation bar
 const burger = document.querySelector(".burger");
 const navLinks = document.querySelector(".nav-links");
